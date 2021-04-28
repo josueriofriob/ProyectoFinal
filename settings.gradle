@@ -1,2 +1,2 @@
-rootProject.name='JBicicleta'
 include ':app'
+rootProject.name = "ProjetZ"
